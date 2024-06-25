@@ -27,7 +27,10 @@ pattern-17 =>
 ABCDCBA
 
 pattern-18 =>
-
+D
+C D
+B C D
+A B C D
 
 */
 
